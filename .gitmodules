@@ -1,3 +1,13 @@
+
 [submodule "contract"]
 	path = contract
 	url = git@github.com:berkerAa/arch-contract.git
+[submodule "database"]
+	path = database
+	url = git@github.com:berkerAa/arch-database.git
+[submodule "api-server"]
+	path = api-server
+	url = git@github.com:berkerAa/arch-api-server.git
+[submodule "fr-client"]
+	path = fr-client
+	url = git@github.com:berkerAa/fr-client.git
